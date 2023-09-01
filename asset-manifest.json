@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/painkiller-prod/static/css/main.b7c66760.css",
+    "main.js": "/painkiller-prod/static/js/main.4c344508.js",
+    "static/js/787.84dcb4c0.chunk.js": "/painkiller-prod/static/js/787.84dcb4c0.chunk.js",
+    "static/media/human-body.jpg": "/painkiller-prod/static/media/human-body.9c0c52a6eae56f03c8a9.jpg",
+    "index.html": "/painkiller-prod/index.html",
+    "main.b7c66760.css.map": "/painkiller-prod/static/css/main.b7c66760.css.map",
+    "main.4c344508.js.map": "/painkiller-prod/static/js/main.4c344508.js.map",
+    "787.84dcb4c0.chunk.js.map": "/painkiller-prod/static/js/787.84dcb4c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7c66760.css",
+    "static/js/main.4c344508.js"
+  ]
+}
