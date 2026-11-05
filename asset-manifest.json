@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/painkiller-prod/static/css/main.b7c66760.css",
-    "main.js": "/painkiller-prod/static/js/main.55ca98c4.js",
-    "static/js/787.84dcb4c0.chunk.js": "/painkiller-prod/static/js/787.84dcb4c0.chunk.js",
-    "static/media/human-body.jpg": "/painkiller-prod/static/media/human-body.9c0c52a6eae56f03c8a9.jpg",
-    "index.html": "/painkiller-prod/index.html",
-    "main.b7c66760.css.map": "/painkiller-prod/static/css/main.b7c66760.css.map",
-    "main.55ca98c4.js.map": "/painkiller-prod/static/js/main.55ca98c4.js.map",
-    "787.84dcb4c0.chunk.js.map": "/painkiller-prod/static/js/787.84dcb4c0.chunk.js.map"
+    "main.css": "/static/css/main.3c3203a2.css",
+    "main.js": "/static/js/main.e522395b.js",
+    "static/js/787.efedd30d.chunk.js": "/static/js/787.efedd30d.chunk.js",
+    "index.html": "/index.html",
+    "main.3c3203a2.css.map": "/static/css/main.3c3203a2.css.map",
+    "main.e522395b.js.map": "/static/js/main.e522395b.js.map",
+    "787.efedd30d.chunk.js.map": "/static/js/787.efedd30d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7c66760.css",
-    "static/js/main.55ca98c4.js"
+    "static/css/main.3c3203a2.css",
+    "static/js/main.e522395b.js"
   ]
 }
