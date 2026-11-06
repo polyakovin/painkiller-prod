@@ -1,6 +1,7 @@
 {
-  "short_name": "Painkiller",
-  "name": "Painkiller — бережно к себе",
+  "short_name": "Back Pain Relief",
+  "name": "Back Pain Relief",
+  "lang": "en",
   "icons": [
     {
       "src": "favicon.svg",
